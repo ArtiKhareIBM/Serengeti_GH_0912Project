@@ -12,3 +12,8 @@ packages:
   gitUrl: https://dev.azure.com/ArtiKhare/AzRepoMultiplyPackage/_git
   gitUsername: ArtiKhare
   gitBranch: main
+- name: GithubPackageDebuglog
+  gitServerName: srcGithubCtrl_Arti
+  gitUrl: https://github.com/ArtiKhareIBM
+  gitUsername: ArtiKhareIBM
+  gitBranch: main
